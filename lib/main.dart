@@ -9,14 +9,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Image picker',
+      title: 'Your Selfie App',
       theme: new ThemeData(
         primaryColor: const Color(0xFF02BB9F),
         primaryColorDark: const Color(0xFF167F67),
         accentColor: const Color(0xFF167F67),
 
       ),
-      home: new HomeScreen(title: 'Flutter Image picker'),
+      home: new HomeScreen(title: 'Adi + Bolga Selfie App'),
     );
   }
 }
