@@ -1,10 +1,6 @@
-# [www.developerlibs.com](https://www.developerlibs.com)
+# About
 
-Flutter - Capture Image from camera or gallery and apply crop. [Read me here](https://www.developerlibs.com/2018/08/flutter-capture-image-from-camera-or.html)
-
-[YouTube](https://youtu.be/u4sMq7uOtcY) ,
-[Facebook](https://www.facebook.com/developerlibs), 
-[Instagram](https://www.instagram.com/developerlibs/), 
-[Twitter](https://twitter.com/LibsDeveloper)
+[Flutter - Capture Image from camera or gallery and apply crop.](https://www.developerlibs.com/2018/08/flutter-capture-image-from-camera-or.html)
 
 ![ScreenShot](https://github.com/DeveloperLibs/flutter_image_ppicker/blob/master/screen/demo.gif)
+
