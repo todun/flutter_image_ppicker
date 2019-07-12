@@ -24,3 +24,5 @@
 [Fixing AndroidX crashes in a Flutter app](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility#recommended-use-android-studio-to-migrate-your-app)
 
 [Flutter fail to run app on device import androidx.annotation.Nullable](https://stackoverflow.com/a/54605272/773257)
+
+[Gradle task assembleDebug failed with exit code 1](https://firebase.google.com/support/release-notes/android#update_-_june_17_2019)
