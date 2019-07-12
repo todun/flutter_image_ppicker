@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         accentColor: const Color(0xFF167F67),
 
       ),
-      home: new HomeScreen(title: 'Adi + Bolga Selfie App'),
+      home: new HomeScreen(title: 'Camera App'),
     );
   }
 }

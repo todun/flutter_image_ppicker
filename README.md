@@ -4,6 +4,7 @@
 
 ![ScreenShot](https://github.com/DeveloperLibs/flutter_image_ppicker/blob/master/screen/demo.gif)
 
+# Error Resolutions
 [pub.dev to update dart dependencies](https://pub.dev/flutter/packages?q=image_picker)
 
 [Error: No toolchains found in the NDK toolchains folder for ABI with prefix: llvm](https://stackoverflow.com/a/52903049/773257)
